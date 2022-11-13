@@ -10,4 +10,4 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortefelipe&layout=compact&langs=16&theme=dark"/>
 </div>
 
-![Snake animation](https://github.com/felipe-lopes-forte/fortefelipe/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fortefelipe/fortefelipe/blob/output/github-contribution-grid-snake.svg)
